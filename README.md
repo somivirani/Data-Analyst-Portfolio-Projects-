@@ -1,2 +1,3 @@
-# Data-Analyst-Portfolio-Projects-
-This repository showcases my portfolio of data analytics projects, featuring work in SQL, Python, Tableau, Excel, and Hadoop (HiveQL). It highlights my end-to-end skills in data cleaning, analysis, visualization, and big data processing.
+Data Cleaning & Exploratory Data Analysis
+This repository contains my portfolio project demonstrating an end-to-end approach to data cleaning and exploratory data analysis using SQL. The project focuses on the 2022 Workforce Layoffs dataset sourced from Kaggle and showcases my skills in data cleaning, standardization, and generating actionable insights.
+
