@@ -69,12 +69,14 @@ _University Name_ | Expected Graduation: 20XX
 - **Always Learning**: Currently exploring [insert new skill, e.g., R, Agile methodologies].  
 
 ---
+## 📫 **Let's Connect!**
 
-## 📫 **Let's Connect!**  
-Let’s turn data into decisions!  
+Let’s turn data into decisions!
+
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/somi-virani-843932299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:somiviranism98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 ---
