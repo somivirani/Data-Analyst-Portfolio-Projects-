@@ -71,18 +71,19 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 **Tools:**
 Python, BeautifulSoup, Requests, Pandas, Matplotlib, Seaborn
+## 🎓 **Education**
 
-## 🎓 **Education**  
-**Bachelor of Business Administration (BBA)**  
-_University Name_ | Expected Graduation: 20XX  
-**Relevant Coursework**: Business Analytics, Statistics, Operations Management  
+**Bachelor of Business Administration (BBA)** | Specialization: Digital Marketing
 
+Radiant Institute of Management and Science
+
+**Relevant Coursework:** Business Analytics, Statistics, Operations Management
 ---
 
 ## 🌟 **Why Work With Me?**  
 - **Hybrid Mindset**: Blend business acumen (BBA) with technical rigor.  
 - **Detail-Oriented**: Clean data, clear visuals, actionable reports.  
-- **Always Learning**: Currently exploring [insert new skill, e.g., R, Agile methodologies].  
+- Always Learning: Currently deepening my understanding of Machine Learning Algorithms and Techniques.
 
 ---
 ## 📫 **Let's Connect!**
