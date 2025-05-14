@@ -41,15 +41,20 @@ I thrive at the intersection of numbers and nuance, where spreadsheets meet stra
 - Prepared clean data for dashboards and strategic insights.
 - Tools: MySQL, CTEs, Data Profiling, CASE Logic
 
-### 2. [Supply Chain Optimization Analysis](https://github.com/your-link)  
-_Reduced logistics costs by 20% through Azure-driven predictive modeling._  
-**Tech**: Python, Azure Machine Learning, Tableau  
+### 2.**🌐 Web Scraping and Analysis: India Economic Data**
+**Description:**
+This project involved web scraping data from Wikipedia to analyze key economic indicators of India.
+* I used Python libraries (BeautifulSoup, Requests) to extract tabular data from the "Economy of India" Wikipedia page.
+* Data was cleaned and transformed using Pandas to handle missing values and ensure consistency.
+* Exploratory Data Analysis (EDA) visualized trends and relationships using Matplotlib and Seaborn.
+* Insights were derived on key economic metrics and historical patterns.
 
-### 3. [Financial Forecasting Model](https://github.com/your-link)  
-_Built an Excel-based model to predict revenue with 95% accuracy._  
-**Tech**: Excel Advanced Formulas, Monte Carlo Simulation  
+**Key Achievements:**
+* Successfully extracted and processed data from a dynamic website.
+* Performed EDA to identify significant economic trends.
 
----
+**Tools:**
+Python, BeautifulSoup, Requests, Pandas, Matplotlib, Seaborn
 
 ## 🎓 **Education**  
 **Bachelor of Business Administration (BBA)**  
