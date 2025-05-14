@@ -78,5 +78,3 @@ Let’s turn data into decisions!
 </p>
 
 ---
-
-⭐ **Fun Fact**: I once automated a 6-hour Excel task into a 10-minute Python script!  
