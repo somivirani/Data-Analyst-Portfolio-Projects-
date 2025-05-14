@@ -48,7 +48,23 @@ This project involved web scraping data from Wikipedia to analyze key economic i
 * Data was cleaned and transformed using Pandas to handle missing values and ensure consistency.
 * Exploratory Data Analysis (EDA) visualized trends and relationships using Matplotlib and Seaborn.
 * Insights were derived on key economic metrics and historical patterns.
+* 
+### 3**📉 Customer Churn Analysis: Telecom Dataset EDA**
 
+**Description:**
+This project utilizes Exploratory Data Analysis (EDA) on a telecom customer churn dataset.
+* Pandas and NumPy were used to clean and prepare the data, handling missing values and data types.
+* Matplotlib and Seaborn were employed to visualize customer demographics, service usage, and billing patterns.
+* EDA techniques identified key factors influencing customer churn.
+* Insights were derived to inform data-driven customer retention strategies.
+
+**Key Achievements:**
+* Performed comprehensive EDA to understand customer churn.
+* Visualized key relationships within the customer data.
+
+**Tools:**
+Python, Pandas, NumPy, Matplotlib, Seaborn
+  
 **Key Achievements:**
 * Successfully extracted and processed data from a dynamic website.
 * Performed EDA to identify significant economic trends.
