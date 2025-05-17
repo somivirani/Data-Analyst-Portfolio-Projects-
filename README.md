@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Somi Virani**  
-### Aspiring Business Analyst | BBA Student | Data-Driven Storyteller  
+### Aspiring Data Analyst | BBA Student | Data-Driven Storyteller  
 
 ---
 
