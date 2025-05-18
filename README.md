@@ -71,8 +71,19 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 **Tools:**
 Python, BeautifulSoup, Requests, Pandas, Matplotlib, Seaborn
-## 🎓 **Education**
 
+
+## Bike Buyers Analysis
+
+### 4🟩🅇 This repository contains an Excel-based analysis of a synthetic “Bike Buyers” dataset, tracking customer demographics and purchase behavior.  
+- **bike_buyers_analysis.xlsx**  
+  - **bike_buyers**: Raw dataset with customer ID, demographics, and purchase flag.  
+  - **Data Dictionary**: Definitions and value mappings for all fields.  
+  - **Pivot table**: Pre-built pivot summaries by region, gender, and age.  
+  - **Dashboard**: Interactive charts and slicers to explore purchase trends.  
+  
+Feel free to download, explore the dashboards, and review the workbook’s documentation. Contributions and feedback are welcome!
+## 🎓 **Education**
 **Bachelor of Business Administration (BBA)** | Specialization: Digital Marketing
 
 Radiant Institute of Management and Science
